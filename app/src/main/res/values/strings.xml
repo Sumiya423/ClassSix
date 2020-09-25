@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">SixthClass</string>
+
+    <string-array name="Rich_Man">
+
+        <item>Jeff Bezos</item>
+        <item>Bill Gates</item>
+        <item>Bernard Arnault</item>
+        <item>Warren Buffett</item>
+        <item>Larry Ellison</item>
+        <item>Amancio Ortega</item>
+        <item>Mark Zuckerberg</item>
+    </string-array>
+
+    <string-array name="Top">
+
+        <item>Top 1 Rich Man</item>
+        <item>Top 2 Rich Man</item>
+        <item>Top 3 Rich Man</item>
+        <item>Top 4 Rich Man</item>
+        <item>Top 5 Rich Man</item>
+        <item>Top 6 Rich Man</item>
+        <item>Top 7 Rich Man</item>
+    </string-array>
+
+</resources>
